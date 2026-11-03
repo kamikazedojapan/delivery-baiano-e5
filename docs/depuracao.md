@@ -4,7 +4,7 @@ Equipe: E5
 Data: 27/10/2026  
 Quem digitou: Victória Gabriela Nunes Dos Santos  
 Quem registrou: Victória Gabriela Nunes Dos Santos  
-Quem revisou o pull request: Andressa Santos Nascimento (revisão pendente)
+Quem revisou o pull request: Andressa Santos Nascimento
 
 ## O pedido do bugs.js
 
@@ -38,7 +38,7 @@ Total:    R$ 33,00
 Pedido aceito
 ```
 
-Saída esperada após as correções. Confirmar executando `node bugs.js`.
+Saída confirmada executando `node bugs.js`. O pull request da atividade foi aprovado e mesclado na `main`.
 
 ## O que a equipe aprendeu
 
