@@ -44,7 +44,7 @@ rotas.get("/pedidos/:id", async (req, res) => {
 });
 
 // Os status que um pedido pode ter, na ordem
-const STATUS = ["recebido", "em preparo", "saiu para a entrega", "entregue", "cancelado"];
+const STATUS = ["recebido", "em preparo", "saiu para entrega", "entregue", "cancelado"];
 
 // PATCH /pedidos/7/status: a cozinha muda só o status
 rotas.patch("/pedidos/:id/status", async (req, res) => {
